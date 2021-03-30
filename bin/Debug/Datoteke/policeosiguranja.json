@@ -1,0 +1,114 @@
+[
+  {
+    "OIB": 70947063220,
+    "BrojPolice": 1775671368,
+    "VrstaOsiguranja": "Stambeno",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "31.05.2021.",
+    "Vrijednost": 100000
+  },
+  {
+    "OIB": 70947063221,
+    "BrojPolice": 1775671361,
+    "VrstaOsiguranja": "Zivotno",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "31.05.2021.",
+    "Vrijednost": 4565
+  },
+  {
+    "OIB": 70947063222,
+    "BrojPolice": 1775641368,
+    "VrstaOsiguranja": "Vozilo",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "15.01.2021.",
+    "Vrijednost": 8430
+  },
+  {
+    "OIB": 70947063223,
+    "BrojPolice": 1775171368,
+    "VrstaOsiguranja": "Stambeno",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "15.01.2021.",
+    "Vrijednost": 135468
+  },
+  {
+    "OIB": 70947063224,
+    "BrojPolice": 1875671368,
+    "VrstaOsiguranja": "Stambeno",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "15.01.2021.",
+    "Vrijednost": 225684
+  },
+  {
+    "OIB": 70947063225,
+    "BrojPolice": 1275671368,
+    "VrstaOsiguranja": "Osobno",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "01.08.2021.",
+    "Vrijednost": 6500
+  },
+  {
+    "OIB": 70947063226,
+    "BrojPolice": 1745671368,
+    "VrstaOsiguranja": "Vozilo",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "15.01.2021.",
+    "Vrijednost": 15468
+  },
+  {
+    "OIB": 70947063227,
+    "BrojPolice": 1235671368,
+    "VrstaOsiguranja": "Vozilo",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "15.01.2021.",
+    "Vrijednost": 22413
+  },
+  {
+    "OIB": 70947063228,
+    "BrojPolice": 1455671361,
+    "VrstaOsiguranja": "Stambeno",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "15.01.2021.",
+    "Vrijednost": 354200
+  },
+  {
+    "OIB": 70947063229,
+    "BrojPolice": 1885671328,
+    "VrstaOsiguranja": "Zivotno",
+    "DatumPocetka": "15.01.2020.",
+    "DatumIsteka": "15.01.2021.",
+    "Vrijednost": 12452
+  },
+  {
+    "OIB": 70947063220,
+    "BrojPolice": 956071132,
+    "VrstaOsiguranja": "Zivotno",
+    "DatumPocetka": "16.01.2020.",
+    "DatumIsteka": "16.01.2021.",
+    "Vrijednost": 12490
+  },
+  {
+    "OIB": 70947063221,
+    "BrojPolice": 1493025768,
+    "VrstaOsiguranja": "Stambeno",
+    "DatumPocetka": "17.01.2020",
+    "DatumIsteka": "17.01.2021",
+    "Vrijednost": 15000
+  },
+  {
+    "OIB": 70947063223,
+    "BrojPolice": 908363814,
+    "VrstaOsiguranja": "Stambeno",
+    "DatumPocetka": "17.01.2020",
+    "DatumIsteka": "17.01.2021",
+    "Vrijednost": 33456
+  },
+  {
+    "OIB": 70947063225,
+    "BrojPolice": 568018418,
+    "VrstaOsiguranja": "Stambeno",
+    "DatumPocetka": "17.01.2020",
+    "DatumIsteka": "17.01.2021",
+    "Vrijednost": 33123
+  }
+]

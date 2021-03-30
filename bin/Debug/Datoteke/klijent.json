@@ -1,0 +1,62 @@
+[
+  {
+    "OIB": 70947063220,
+    "Ime": "Hrvoje",
+    "Prezime": "Djakovic",
+    "Grad": "Nova Gradiska"
+  },
+  {
+    "OIB": 70947063221,
+    "Ime": "Anita",
+    "Prezime": "Djakovic",
+    "Grad": "Nova Gradiska"
+  },
+  {
+    "OIB": 70947063222,
+    "Ime": "Ivan",
+    "Prezime": "Djakovic",
+    "Grad": "Nova Gradiska"
+  },
+  {
+    "OIB": 70947063223,
+    "Ime": "Ivana",
+    "Prezime": "Djakovic",
+    "Grad": "Nova Gradiska"
+  },
+  {
+    "OIB": 70947063224,
+    "Ime": "Sandi",
+    "Prezime": "Kovac",
+    "Grad": "Virovitica"
+  },
+  {
+    "OIB": 70947063225,
+    "Ime": "Valentino",
+    "Prezime": "Spoljaric",
+    "Grad": "Zagreb"
+  },
+  {
+    "OIB": 70947063226,
+    "Ime": "Ivan",
+    "Prezime": "Marcek",
+    "Grad": "Slatina"
+  },
+  {
+    "OIB": 70947063227,
+    "Ime": "Lea",
+    "Prezime": "Fuckar",
+    "Grad": "Zagreb"
+  },
+  {
+    "OIB": 70947063228,
+    "Ime": "Karlo",
+    "Prezime": "Basaric",
+    "Grad": "Vinkovci"
+  },
+    {
+    "OIB": 70947063229,
+    "Ime": "Antonio",
+    "Prezime": "Banderas",
+    "Grad": "Vinkovci"
+  }
+]
